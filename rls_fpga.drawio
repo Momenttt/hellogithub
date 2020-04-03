@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-03T18:14:37.328Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="S5EZa4u-dFvi3_2BIMAo" version="12.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-03T18:19:51.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="EHJHinrKq_ZfWpnAdHq_" version="12.9.6" type="github">
   <diagram id="BewtOXVVWgo3KW9isc1k" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -212,8 +212,8 @@
         <mxCell id="0ufCBhRuUzzFeiTLiHuW-55" value="wn+1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="967" y="705" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0ufCBhRuUzzFeiTLiHuW-57" value="时钟为250MHz，10000个点总计时间为640/250*10ms=25.6ms" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="130" width="350" height="20" as="geometry" />
+        <mxCell id="0ufCBhRuUzzFeiTLiHuW-57" value="时钟为200MHz，10000个点总计时间为640/200*10ms=32ms" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="525" y="130" width="340" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aMKY4DC0t14Ar2wISFHf-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0ufCBhRuUzzFeiTLiHuW-58" target="aMKY4DC0t14Ar2wISFHf-1">
           <mxGeometry relative="1" as="geometry" />
@@ -334,6 +334,9 @@
         </mxCell>
         <mxCell id="8H5kr53uFf9QW3vQuuuc-43" value="Kn" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="517" y="780" width="40" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="aMKY4DC0t14Ar2wISFHf-3" value="M=80，实际为10128，总时间为10128/200*10 = 506ms" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="175" width="310" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
