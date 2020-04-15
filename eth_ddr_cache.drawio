@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-15T10:23:29.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="9UEPJWm2JhL1GY5t_uq_" version="12.9.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-15T11:28:23.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="nDYdu0qKWEXZPC6alfPw" version="12.9.10" type="github">
   <diagram id="vPkoD4cjhlNXQQTwAjVm" name="Page-1">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -29,6 +29,24 @@
         </mxCell>
         <mxCell id="KdVAQakqdPZRSXLw0mr6-5" value="AXI4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KdVAQakqdPZRSXLw0mr6-13" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="150" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdVAQakqdPZRSXLw0mr6-14" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KdVAQakqdPZRSXLw0mr6-15" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="485" as="sourcePoint" />
+            <mxPoint x="310" y="55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KdVAQakqdPZRSXLw0mr6-16" value="bb_clk时钟域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="80" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KdVAQakqdPZRSXLw0mr6-17" value="axi_clk时钟域" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="443" y="80" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
