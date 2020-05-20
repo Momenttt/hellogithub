@@ -1,38 +1,44 @@
-<mxfile host="www.draw.io" modified="2020-05-20T07:15:09.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="_JNsDi3UmF9YGSfFLi88" version="12.8.9" type="github">
+<mxfile host="www.draw.io" modified="2020-05-20T07:40:51.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="_Kx6Y4G3yJhhLtkdRqBy" version="13.1.3" type="github">
   <diagram id="eTTmSPCWN2Knlqyn0jJ-" name="Page-1">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="g0VamxYvwE0g6FeIGG6J-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g0VamxYvwE0g6FeIGG6J-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="120" width="410" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="g0VamxYvwE0g6FeIGG6J-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g0VamxYvwE0g6FeIGG6J-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="160" width="10" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="g0VamxYvwE0g6FeIGG6J-3" value="FPC排线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="g0VamxYvwE0g6FeIGG6J-3" value="FPC排线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="200" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g0VamxYvwE0g6FeIGG6J-4" value="SD卡槽" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g0VamxYvwE0g6FeIGG6J-4" value="SD卡槽" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="150" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="g0VamxYvwE0g6FeIGG6J-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g0VamxYvwE0g6FeIGG6J-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="380" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g0VamxYvwE0g6FeIGG6J-7" value="2.54孔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="g0VamxYvwE0g6FeIGG6J-7" value="2.54孔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="380" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g0VamxYvwE0g6FeIGG6J-9" value="JTAG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="g0VamxYvwE0g6FeIGG6J-9" value="JTAG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="364" y="380" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g0VamxYvwE0g6FeIGG6J-10" value="UART" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="g0VamxYvwE0g6FeIGG6J-10" value="UART" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="380" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g0VamxYvwE0g6FeIGG6J-14" value="RJ45" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g0VamxYvwE0g6FeIGG6J-14" value="RJ45" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="270" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="g0VamxYvwE0g6FeIGG6J-15" value="RJ45，JTAG，UART全都是孔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="g0VamxYvwE0g6FeIGG6J-15" value="RJ45，JTAG，UART全都是孔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="480" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eViRAHMKu0cKohPeVKoy-1" value="dc-dc&lt;br&gt;2s到6sto3.3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="140" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eViRAHMKu0cKohPeVKoy-3" value="TXS02612RTWR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="160" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
