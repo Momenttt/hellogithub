@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-05-20T07:10:44.129Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="Vh6emT6-yL6zVaVo_OpC" version="12.8.9" type="github">
+<mxfile host="www.draw.io" modified="2020-05-20T07:15:09.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="_JNsDi3UmF9YGSfFLi88" version="12.8.9" type="github">
   <diagram id="eTTmSPCWN2Knlqyn0jJ-" name="Page-1">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="g0VamxYvwE0g6FeIGG6J-14" value="RJ45" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="270" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g0VamxYvwE0g6FeIGG6J-15" value="RJ45，JTAG，UART全都是孔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="480" width="180" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
