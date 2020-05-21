@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-05-20T07:59:54.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="HeQxNCVs-Pj-xU4R-dYC" version="13.1.3" type="github">
+<mxfile host="www.draw.io" modified="2020-05-21T02:12:32.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="_DMcd6FH8uq2BTeE2JKo" version="13.1.3" type="github">
   <diagram id="eTTmSPCWN2Knlqyn0jJ-" name="Page-1">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,20 +28,23 @@
         <mxCell id="g0VamxYvwE0g6FeIGG6J-14" value="RJ45" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="270" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="eViRAHMKu0cKohPeVKoy-1" value="dc-dc&lt;br&gt;2s到6sto3.3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eViRAHMKu0cKohPeVKoy-1" value="dc-dc&lt;br&gt;2s到6sto3.3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="140" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eViRAHMKu0cKohPeVKoy-3" value="TXS02612RTWR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eViRAHMKu0cKohPeVKoy-3" value="TXS02612RTWR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="160" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eViRAHMKu0cKohPeVKoy-5" value="UART" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eViRAHMKu0cKohPeVKoy-5" value="UART" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="380" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eViRAHMKu0cKohPeVKoy-6" value="2.54mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="eViRAHMKu0cKohPeVKoy-6" value="2.54mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="360" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eViRAHMKu0cKohPeVKoy-7" value="TTL转232" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eViRAHMKu0cKohPeVKoy-7" value="TTL转232" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="290" width="66" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dkUI0PNUavCS7c39lP8Z-1" value="BOOT_MODE拨码开关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="240" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
