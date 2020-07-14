@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-07-14T03:22:29.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="SmqhT7jDTmvBGy9QIb4s" version="13.1.3" type="github">
+<mxfile host="www.draw.io" modified="2020-07-14T03:29:58.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="KYleOMK59DHYZsPsi3Vd" version="13.1.3" type="github">
   <diagram id="VK8Ccuj7563UnQeUwwhE" name="Page-1">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,8 +49,8 @@
         <mxCell id="GHGKRmU3qR_QKKOwh8lX-14" value="100km左右" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="611" y="253" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GHGKRmU3qR_QKKOwh8lX-15" value="天线高度10米" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="480" width="90" height="20" as="geometry" />
+        <mxCell id="GHGKRmU3qR_QKKOwh8lX-15" value="天线支持升高高度到10米" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="480" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GHGKRmU3qR_QKKOwh8lX-16" value="1.3G，10W" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="290" width="80" height="20" as="geometry" />
@@ -87,6 +87,18 @@
         </mxCell>
         <mxCell id="GHGKRmU3qR_QKKOwh8lX-35" value="节约天线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="352" y="585" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GHGKRmU3qR_QKKOwh8lX-36" value="10个功放" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="676" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GHGKRmU3qR_QKKOwh8lX-37" value="1km高度以上" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="124" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GHGKRmU3qR_QKKOwh8lX-38" value="1km高度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="125" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GHGKRmU3qR_QKKOwh8lX-39" value="0-500m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="263" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
