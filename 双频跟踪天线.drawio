@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-07-16T10:20:20.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="JzUB2p7R2ZuEVtK7xzY3" version="13.4.2" type="github">
+<mxfile host="www.draw.io" modified="2020-07-16T10:24:20.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="4DYtt8HqSfAXQ8huo9zY" version="13.4.2" type="github">
   <diagram id="IRvKzsm3GtT4MByo4o_x" name="Page-1">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -34,9 +34,13 @@
         <mxCell id="LuskwarGqk0Wx7gxYk58-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="LuskwarGqk0Wx7gxYk58-7" target="2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LuskwarGqk0Wx7gxYk58-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="LuskwarGqk0Wx7gxYk58-7">
+        <mxCell id="LuskwarGqk0Wx7gxYk58-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LuskwarGqk0Wx7gxYk58-7" target="LuskwarGqk0Wx7gxYk58-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="245" />
+              <mxPoint x="110" y="690" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LuskwarGqk0Wx7gxYk58-7" value="1.3-1.4宽频天线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
