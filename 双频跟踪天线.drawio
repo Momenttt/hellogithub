@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-07-16T10:20:09.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="ixgWI7DKxyHeu8oxKR2r" version="13.4.2" type="github">
+<mxfile host="www.draw.io" modified="2020-07-16T10:20:20.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="JzUB2p7R2ZuEVtK7xzY3" version="13.4.2" type="github">
   <diagram id="IRvKzsm3GtT4MByo4o_x" name="Page-1">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -155,6 +155,12 @@
         </mxCell>
         <mxCell id="LuskwarGqk0Wx7gxYk58-76" value="任务机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="620" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-77" value="地面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-78" value="地面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="610" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
