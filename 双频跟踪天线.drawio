@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-07-16T09:10:38.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="CquAub8guP07dYp59K0l" version="13.4.2" type="github">
+<mxfile host="www.draw.io" modified="2020-07-16T09:18:17.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="KTXJwxU66BlE2QFW2FEX" version="13.4.2" type="github">
   <diagram id="IRvKzsm3GtT4MByo4o_x" name="Page-1">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -34,6 +34,11 @@
         <mxCell id="LuskwarGqk0Wx7gxYk58-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="LuskwarGqk0Wx7gxYk58-7" target="2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="LuskwarGqk0Wx7gxYk58-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LuskwarGqk0Wx7gxYk58-7" value="1.3-1.4宽频天线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="200" width="120" height="90" as="geometry" />
         </mxCell>
@@ -55,8 +60,8 @@
         <mxCell id="LuskwarGqk0Wx7gxYk58-17" value="840天线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LuskwarGqk0Wx7gxYk58-19" value="PAD地面站" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="590" width="210" height="120" as="geometry" />
+        <mxCell id="LuskwarGqk0Wx7gxYk58-22" value="串口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="250" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
