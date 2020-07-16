@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-07-16T09:18:17.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="KTXJwxU66BlE2QFW2FEX" version="13.4.2" type="github">
+<mxfile host="www.draw.io" modified="2020-07-16T09:58:52.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="_p-63k_CWk2x5JGXKD17" version="13.4.2" type="github">
   <diagram id="IRvKzsm3GtT4MByo4o_x" name="Page-1">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -62,6 +62,84 @@
         </mxCell>
         <mxCell id="LuskwarGqk0Wx7gxYk58-22" value="串口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-44" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="LuskwarGqk0Wx7gxYk58-41" target="LuskwarGqk0Wx7gxYk58-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="LuskwarGqk0Wx7gxYk58-41" target="LuskwarGqk0Wx7gxYk58-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-41" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="LuskwarGqk0Wx7gxYk58-42" target="LuskwarGqk0Wx7gxYk58-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-42" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-43" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-47" value="840基带去控制中继机上1.440的开和关，不会产生干扰" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="330" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-48" value="1440" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-49" value="1440" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-50" value="1370" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-51" value="relay1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="110" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-53" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="LuskwarGqk0Wx7gxYk58-54" target="LuskwarGqk0Wx7gxYk58-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-64" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="LuskwarGqk0Wx7gxYk58-54" target="LuskwarGqk0Wx7gxYk58-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-69" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="LuskwarGqk0Wx7gxYk58-54" target="LuskwarGqk0Wx7gxYk58-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-54" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-55" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="LuskwarGqk0Wx7gxYk58-56" target="LuskwarGqk0Wx7gxYk58-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-56" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="616" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-57" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="616" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-58" value="840基带去控制中继机上1.440的开和关，不会产生干扰" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="730" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-59" value="1440" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="556" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-60" value="1440" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="636" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-61" value="1370" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-62" value="relay1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="480" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-68" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="LuskwarGqk0Wx7gxYk58-63" target="LuskwarGqk0Wx7gxYk58-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-63" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LuskwarGqk0Wx7gxYk58-65" value="relay2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="420" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
